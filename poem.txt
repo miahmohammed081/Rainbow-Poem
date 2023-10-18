@@ -4,5 +4,6 @@ purple
 green
 yellow
 blue
+gold
 
 These are da colours  of da  rainbow
